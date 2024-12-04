@@ -4,3 +4,6 @@ gluehmost
 aepfel
 birnen
 nuesse
+punsch
+pommes
+
